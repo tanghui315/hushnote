@@ -28,7 +28,7 @@ If a transcript or summary looks incorrect, include a short description of the s
 HushNote is designed to keep processing on device by default. If you enable an optional third-party cloud summary provider, transcript content may be sent to the provider you configure.
 
 ## Privacy Policy
-Privacy Policy: 
+[Privacy Policy](./privacy.md)
 
 ## Response time
 We usually reply within 3 to 5 business days.
